@@ -19,4 +19,4 @@ This is my STATS 220 Repo which contains some content from a university paper I 
 * Feel free to watch this repository
 * You can even ⭐ the repo if you want
 
-You can also check out my [LinkedIn](www.linkedin.com/in/sriya-garamilla-8660b9248) page! 🤝
+You can also check out my [LinkedIn](https://www.linkedin.com/in/sriya-garamilla-8660b9248) page! 🤝
